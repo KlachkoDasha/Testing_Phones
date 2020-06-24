@@ -1,0 +1,19 @@
+[{
+  "_id": 1,
+  "Full name": "Костюк Михаил Витальевич",
+  "Position": "Junior QA Engineer/Tester",
+  "Phone": "+37529-654-54-77",
+  "Address": "Авакяна,55"
+},{
+  "_id": 2,
+  "Full name": "Василевчич Никита Максимович",
+  "Position": "Middle QA Engineer/Tester",
+  "Phone": "+37544-878-32-54",
+  "Address": "Лазо,33"
+},{
+  "_id": 3,
+  "Full name": "Левчук Егор Андреевич",
+  "Position": "Senior QA Engineer/Tester",
+  "Phone": "+37525-876-77-22",
+  "Address": "Неманская,27"
+}]
